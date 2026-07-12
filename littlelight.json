@@ -1449,7 +1449,7 @@
             ]
         },
         {
-            "description": "Void Overshield to allies, great perk pool",
+            "description": "S-Tier / Rank #2\nMasterwork: Reload Speed",
             "hash": 2579693381,
             "name": "Cusp Sempiternal PVE God Roll",
             "plugs": [
@@ -1907,7 +1907,7 @@
             ]
         },
         {
-            "description": "basically Reckless with a few extra perks and a different origin",
+            "description": "S-Tier / Rank #6\nMasterwork: Reload Speed",
             "hash": 2370525224,
             "name": "Reghusk's Pledge PVE God Roll",
             "plugs": [
@@ -1918,8 +1918,6 @@
                     839105230
                 ],
                 [
-                    1709045111,
-                    3230963543,
                     550838496,
                     1431678320
                 ],
@@ -1932,10 +1930,10 @@
                 [
                     2541826827,
                     776531651,
-                    4290541820,
-                    2610012052,
                     984655331,
-                    243981275
+                    243981275,
+                    4290541820,
+                    2610012052
                 ]
             ],
             "tags": [
@@ -2007,7 +2005,7 @@
             ]
         },
         {
-            "description": "every relevant void perk and Chaos to boot, great all around",
+            "description": "S-Tier / Rank #9\nMasterwork: Stability",
             "hash": 4158265643,
             "name": "Reckless Oracle PVE God Roll",
             "plugs": [
@@ -2018,8 +2016,8 @@
                     839105230
                 ],
                 [
-                    1709045111,
-                    3230963543,
+                    494745090,
+                    1561002382,
                     550838496,
                     1431678320
                 ],
@@ -2027,17 +2025,11 @@
                     1926441324,
                     2048641572,
                     1767911158,
-                    3182497402,
-                    2613226185,
-                    4019266109
+                    3182497402
                 ],
                 [
                     2541826827,
-                    776531651,
-                    1817983009,
-                    3640170453,
-                    2904194311,
-                    1134488199
+                    776531651
                 ],
                 [
                     2407733996,
@@ -2049,7 +2041,7 @@
             ]
         },
         {
-            "description": "every relevant void perk and Chaos to boot, great all around",
+            "description": "S-Tier / Rank #4\nMasterwork: Stability",
             "hash": 1802315656,
             "name": "Reckless Oracle Pantheon version PVE God Roll",
             "plugs": [
@@ -2060,8 +2052,8 @@
                     839105230
                 ],
                 [
-                    1709045111,
-                    3230963543,
+                    494745090,
+                    1561002382,
                     550838496,
                     1431678320
                 ],
@@ -2403,7 +2395,7 @@
             ]
         },
         {
-            "description": "on-demand survivability on any class, Benevolence synergy",
+            "description": "S-Tier / Rank #1\nMasterwork: Reload Speed",
             "hash": 1801007332,
             "name": "No Hesitation PVE God Roll",
             "plugs": [
@@ -2435,7 +2427,7 @@
             ]
         },
         {
-            "description": "Frost Armor not as good as Restoration, but good perk spread",
+            "description": "S-Tier / Rank #3\nMasterwork: Reload Speed",
             "hash": 1850748385,
             "name": "DECATUR 02 PVE God Roll",
             "plugs": [
@@ -2507,7 +2499,7 @@
             ]
         },
         {
-            "description": "best general combo, also has Withering access",
+            "description": "S-Tier / Rank #5\nMasterwork: Reload Speed",
             "hash": 214545213,
             "name": "Gnawing Hunger PVE God Roll",
             "plugs": [
@@ -2518,16 +2510,12 @@
                     839105230
                 ],
                 [
-                    1709045111,
-                    3230963543,
                     550838496,
                     1431678320
                 ],
                 [
                     2541826827,
                     776531651,
-                    1906147653,
-                    3523296417,
                     2904194311,
                     1134488199
                 ],
@@ -2543,7 +2531,7 @@
             ]
         },
         {
-            "description": "classic void combo, Withering access, good origin",
+            "description": "S-Tier / Rank #7\nMasterwork: Reload Speed",
             "hash": 3625635456,
             "name": "Positive Outlook PVE God Roll",
             "plugs": [
@@ -2554,8 +2542,8 @@
                     839105230
                 ],
                 [
-                    1709045111,
-                    3230963543,
+                    494745090,
+                    1561002382,
                     550838496,
                     1431678320
                 ],
@@ -2577,7 +2565,7 @@
             ]
         },
         {
-            "description": "classic void combo, Withering access, good origin",
+            "description": "S-Tier / Rank #7\nMasterwork: Reload Speed",
             "hash": 1832481283,
             "name": "Positive Outlook PVE God Roll",
             "plugs": [
@@ -2588,8 +2576,8 @@
                     839105230
                 ],
                 [
-                    1709045111,
-                    3230963543,
+                    494745090,
+                    1561002382,
                     550838496,
                     1431678320
                 ],
@@ -2985,7 +2973,7 @@
             ]
         },
         {
-            "description": "classic Void combo, just bad frame and mediocre origin",
+            "description": "S-Tier / Rank #8\nMasterwork: Reload Speed",
             "hash": 424291879,
             "name": "Age-Old Bond PVE God Roll",
             "plugs": [
@@ -2996,8 +2984,6 @@
                     839105230
                 ],
                 [
-                    1709045111,
-                    3230963543,
                     550838496,
                     1431678320
                 ],
@@ -3009,7 +2995,9 @@
                 ],
                 [
                     1926441324,
-                    2048641572
+                    2048641572,
+                    2562668800,
+                    3324494224
                 ]
             ],
             "tags": [
